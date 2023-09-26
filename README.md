@@ -1,2 +1,2 @@
 # EricFrazer
-E-Portfolio
+Eric Frazer's E-Portfolio
